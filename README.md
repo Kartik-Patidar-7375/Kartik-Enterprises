@@ -1,6 +1,5 @@
 # Kartik-Enterprises
 <br>
-<br>
 It is a Business Website.
 <br>
 <br>
